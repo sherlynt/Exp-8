@@ -38,7 +38,7 @@ CODES:
     return 0;
    }
 
-o/p:
+o/p: ![image](https://github.com/user-attachments/assets/3976f830-38a2-410d-b874-48c4f54d1ba8)
 
 
 2. Addition and Subtraction of Matrix:
@@ -94,7 +94,7 @@ o/p:
     return 0;
     }
 
-o/p:
+o/p: ![image](https://github.com/user-attachments/assets/fbd7f65a-4dd1-4eae-8b58-2599e1db54d2)
 
 
 
@@ -152,9 +152,7 @@ int main() {
 }
 ```
 
-o/p:
-
-
+o/p: ![image](https://github.com/user-attachments/assets/ad4089eb-7cbd-4482-91c9-63f59e520f89)
 
 4. Transpose of Matrix:
 
@@ -189,8 +187,7 @@ int main() {
     return 0;
 }
 ```
-o/p:
-
+o/p: ![image](https://github.com/user-attachments/assets/aa24fa13-1d47-481b-a22c-a06ade6fcf88)
 
 
 5. Diagonal Addition of Matrix:
@@ -226,8 +223,7 @@ int main() {
     return 0;
 }
 ```
-o/p:
-
+o/p: ![image](https://github.com/user-attachments/assets/025dd242-5b1a-4d92-891e-1b49646b4135)
 
 
 # Conclusion: 
